@@ -1,0 +1,21 @@
+{
+  "routes": [
+    "/",
+    "/asistencia-manual",
+    "/configuracion",
+    "/crear-webmaster",
+    "/general",
+    "/general-page",
+    "/generar-reporte",
+    "/historial-asistencia",
+    "/inasistencias",
+    "/justificar-asistencia",
+    "/login",
+    "/marcar-asistencia",
+    "/marcar-excepcion",
+    "/profesores-page",
+    "/qr-asistencia",
+    "/signin",
+    "/upload"
+  ]
+}
